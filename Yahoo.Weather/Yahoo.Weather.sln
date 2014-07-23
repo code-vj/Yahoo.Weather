@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahoo.Weather", "weatherinformation\Yahoo.Weather.csproj", "{FC4BD7A7-8F2A-4AAD-A6E6-303AC0066798}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahoo.Weather", "Yahoo.Weather\Yahoo.Weather.csproj", "{FC4BD7A7-8F2A-4AAD-A6E6-303AC0066798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
